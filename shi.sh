@@ -1,3 +1,3 @@
-echo'(++++)
+$echo'(++++)
           (;D)'
-echo'work'
+$echo'work'
